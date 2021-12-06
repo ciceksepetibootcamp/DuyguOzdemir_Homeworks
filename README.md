@@ -16,5 +16,6 @@ Postman ile http requestleri hazırlandı.
 HM1
 REst Assured ile Api testi yapıldı.
 HM2
+--comingsoon--
 
 
