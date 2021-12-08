@@ -1,21 +1,25 @@
 # DuyguOzdemir_Homeworks
 
  1. Hafta:
-HM1 
-25 tane test case yazılıp "Eduflow"a atıldı
-HM2 
-2 test class x 2 test olucak şekilde webdriver projesi yazıldı
+
+Homework1
+25 Manuel Test case yazıldı.
+Homework2
+Çiçek Sepeti Web UI leri yazıldı (SeleniumIDE).
+ 
  
  2. Hafta:
-HM1
-GooglePageSpeed; Nedir? Nasıl Kullanılır? ile ilgili medium yazısı iletildi.
-HM2
-Postman ile http requestleri hazırlandı.
+
+Homework1
+Google Page Speed Hakkında Mediumda bir blog yazısı paylaşıldı.
+Homework2
+Postman API ile api testi yapıldı.
+
 
 3. Hafta:
-HM1
-REst Assured ile Api testi yapıldı.
-HM2
---comingsoon--
 
+Homework1
+REST Assured ile API testi yazıldı.
+Homework2
+Cucumber ile test senaryoları oluşturuldu.
 
