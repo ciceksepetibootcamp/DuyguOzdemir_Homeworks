@@ -18,18 +18,10 @@ public class SearchboxTest {
         public WebDriver driver;
         public WebDriver wait;
 
-        @Given("Navigate to the website")
-        public void navigateToWebsite() {
-            driver = ChromeDriver.setUp();
-            driver.manage().window().maximize();
-            driver.get("https://www.zara.com/tr/");
-            wait = (WebDriver) new WebDriverWait(driver, 1000);
-        }
-
         @FindBy(css = ".layout-header-search-bar__text > span")
         public WebElement searchBox;
 
-        @When(" Click the searchBox button")
+        @When("Click the searchBox button")
         public void clickSearchBox() {
             helper.clickElement(searchBox);
         }
@@ -46,7 +38,7 @@ public class SearchboxTest {
         @FindBy(xpath = "//div[@class='search-products-view__results-count']/span[.='Sonuçlar']")
         public WebElement productResults;
 
-        @Then("Check and verify login result {string}")
+        @Then("Check and verify search result {string}")
         public void checkListedProducts(String productName) {
             String productsFoundText = helper.getText(productResults);
             Assert.assertTrue(productsFoundText.contains(productName));
@@ -55,9 +47,10 @@ public class SearchboxTest {
         @FindBy(xpath ="//span[.='Aramada sonuç bulunamadı']")
         public WebElement failedSearchResult;
 
-        @Then("Check and verify failed login result {string}")
-        public void verifyFailedLoginResult(String noFound) {
+        @Then("Check and verify no product search result {string}")
+        public void verifyNoProduct(String noFound) {
             String noFoundText = helper.getText(failedSearchResult);
             Assert.assertTrue(noFoundText.contains(noFound));
     }
+
     }
