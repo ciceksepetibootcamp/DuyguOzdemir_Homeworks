@@ -1,40 +1,42 @@
 # DuyguOzdemir_Homeworks
 
- 1. Hafta:
+ ((1. Hafta:))
 
 Homework1
-25 Manuel Test case yazıldı.
+---25 Manuel Test case yazıldı.
 Homework2
-Çiçek Sepeti Web UI leri yazıldı (SeleniumIDE).
+---Çiçek Sepeti Web UI leri yazıldı (SeleniumIDE).
  
  
- 2. Hafta:
+((2. Hafta:))
 
 Homework1
 
-Google Page Speed Hakkında Mediumda bir blog yazısı paylaşıldı.
+---Google Page Speed Hakkında Mediumda bir blog yazısı paylaşıldı.
 
 Homework2
 
-Postman API ile api testi yapıldı.
+---Postman API ile api testi yapıldı.
 
 
-3. Hafta:
+((3. Hafta:))
 
 Homework1
 
-REST Assured ile API testi yazıldı.
+---REST Assured ile API testi yazıldı.
 
 Homework2
 
-Cucumber ile test senaryoları oluşturuldu.
+---Cucumber ile test senaryoları oluşturuldu.
 
-4. Hafta:
+((4. Hafta:))
 
 Homework1
 
-.NET -- comming soon --
+---.NET -- comming soon --
 
 Homework2
 
-python-pytest ile test senaryoları oluşturuldu.
+---python-pytest ile test senaryoları oluşturuldu.
+
+
