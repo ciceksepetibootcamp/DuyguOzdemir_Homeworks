@@ -3,8 +3,11 @@
  ((1. Hafta:))
 
 Homework1
+
 ---25 Manuel Test case yazıldı.
+
 Homework2
+
 ---Çiçek Sepeti Web UI leri yazıldı (SeleniumIDE).
  
  
