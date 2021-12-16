@@ -1,6 +1,6 @@
 # DuyguOzdemir_Homeworks
 
- ((1. Hafta:))
+-------------------((1. Hafta:))-------------------
 
 Homework1
 
@@ -9,9 +9,8 @@ Homework1
 Homework2
 
 ---Çiçek Sepeti Web UI leri yazıldı (SeleniumIDE).
- 
- 
-((2. Hafta:))
+  
+-------------------((2. Hafta:))-------------------
 
 Homework1
 
@@ -21,8 +20,7 @@ Homework2
 
 ---Postman API ile api testi yapıldı.
 
-
-((3. Hafta:))
+-------------------((3. Hafta:))-------------------
 
 Homework1
 
@@ -32,7 +30,7 @@ Homework2
 
 ---Cucumber ile test senaryoları oluşturuldu.
 
-((4. Hafta:))
+-------------------((4. Hafta:))-------------------
 
 Homework1
 
