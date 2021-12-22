@@ -4,7 +4,7 @@
 
 Homework1
 
----25 Manuel Test case yazıldı.(https://github.com/ciceksepetibootcamp/DuyguOzdemir_Homeworks/tree/main/Week1/HW-1)
+---25 Manuel Test case yazıldı.
 
 Homework2
 
