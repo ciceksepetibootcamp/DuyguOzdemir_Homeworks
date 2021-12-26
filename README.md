@@ -34,10 +34,14 @@ Homework2
 
 Homework1
 
----.NET -- comming soon --
+---.NET ile test senaryoları oluşuturuldu --
 
 Homework2
 
 ---python-pytest ile test senaryoları oluşturuldu.
 
+-------------------Çiçek Sepeti EKibinin 20 Aralık ödevi -------------------
+
+
+iletilen Postman collectionu için  Entegrasyon testi senaryoları yazıldı
 
